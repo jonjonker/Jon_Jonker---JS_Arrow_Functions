@@ -14,18 +14,12 @@ fivePlusSeven();
 
 // deel C
 
-const myFunction = () => a + b
-
-myFunction();
+const myFunction = (a, b) => a + b
 
 // deel D
 
 const addFive = a => a + 5
 
-addFive ();
-
 // deel E
 
 const createObject = () => ({ greeting: "hoi" })
-
-createObject(); 
